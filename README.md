@@ -7,6 +7,7 @@ The seemingly unsolvable problem of TM taking hours to save god-knows-what-file 
 
 You'll be presented the folders located in your root and home directories.  
 Uncomment/remove the few folders you want to backup and save the file.  
-Execute the generated shell script, you're done.
+Execute the generated shell script.  
+BAM! you're done.
 
 [![asciicast](https://asciinema.org/a/16ng1nrhuqca2lou355f1f91c.png)](https://asciinema.org/a/16ng1nrhuqca2lou355f1f91c)
